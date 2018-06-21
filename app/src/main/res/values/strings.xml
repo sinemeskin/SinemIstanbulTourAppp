@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">Sinem Istanbul Tour App</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_malls">Malls</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="open_hours">Open Hours: </string>
+    <string name="telephone">Phone Number: </string>
+    <string name="price">Price: </string>
+    <string name="address">Address: </string>
+
+    <string name="sight_1_name">Basilica Cistern</string>
+    <string name="sight_2_name">Aya Sofya</string>
+    <string name="sight_3_name">Galata Tower</string>
+    <string name="sight_4_name">Dolmabahce Palace</string>
+    <string name="sight_5_name">Topkapi Palace</string>
+    <string name="sight_6_name">Blue Mosque</string>
+    <string name="sight_7_name">Istanbul Archaeology Museums</string>
+    <string name="sight_8_name">Grand Bazaar</string>
+    <string name="sight_9_name">Chora Church</string>
+
+    <string name="mall_1_name">Istinye Park</string>
+    <string name="mall_2_name">Zorlu Center</string>
+    <string name="mall_3_name">Akasya Acibadem</string>
+    <string name="mall_4_name">Watergarden Istanbul</string>
+    <string name="mall_5_name">Mall of Istanbul</string>
+    <string name="mall_6_name">Aqua Florya Alişveriş Merkezi</string>
+    <string name="mall_7_name">Emaar Square Mall</string>
+    <string name="mall_8_name">Istanbul Cevahir Alişveriş Merkezi</string>
+    <string name="mall_9_name">Palladium Alişveriş Merkezi</string>
+
+    <string name="restaurant_1_name">Eleos</string>
+    <string name="restaurant_2_name">Lacivert Restaurant</string>
+    <string name="restaurant_3_name">Divan Bebek Brasserie</string>
+    <string name="restaurant_4_name">Nusr-Et Steakhouse</string>
+    <string name="restaurant_5_name">Grill Polonez</string>
+    <string name="restaurant_6_name">Mukellef</string>
+    <string name="restaurant_7_name">Ozgur Şef Steakhouse</string>
+    <string name="restaurant_8_name">Arnavutkoy Balikcisi</string>
+    <string name="restaurant_9_name">Lucca</string>
+
+    <string name="hotel_1_name">Four Seasons Hotel Istanbul at the Bosphorus</string>
+    <string name="hotel_2_name">Divan Istanbul City</string>
+    <string name="hotel_3_name">Raffles Istanbul</string>
+    <string name="hotel_4_name">Swissotel The Bosphorus</string>
+    <string name="hotel_5_name">Ritz Carlton Istanbul</string>
+    <string name="hotel_6_name">The Grand Tarabya</string>
+    <string name="hotel_7_name">Marmara Istanbul Taksim</string>
+    <string name="hotel_8_name">Hilton Istanbul Bosphorus</string>
+    <string name="hotel_9_name">Movenpick Hotel Istanbul</string>
+
+    <string name="sight_1_openHours">Mon-Sun 09:00-17:30</string>
+    <string name="sight_2_openHours">9am-6pm Tue-Sun mid-Apr–mid-Oct, 9am-4pm mid-Oct–mid-Apr</string>
+    <string name="sight_3_openHours">Mon-Sun 08:00-20:00</string>
+    <string name="sight_4_openHours">Open except Mondays and Thursdays between 9:00-16:00</string>
+    <string name="sight_5_openHours">Mon-Sun 09:00-16:45</string>
+    <string name="sight_6_openHours">Mon-Sun 08:30-11:30, 13:00-14:30, 15:30-16:45</string>
+    <string name="sight_7_openHours">Mon-Sun 09:00-17:00</string>
+    <string name="sight_8_openHours">Mon-Sat 09:00-20:00</string>
+    <string name="sight_9_openHours">Mon-Sun 09:00-16:30</string>
+
+    <string name="mall_1_openHours">Mon-Sun 10:00-22:00</string>
+    <string name="mall_2_openHours">Mon-Sun 10:00-22:00</string>
+    <string name="mall_3_openHours">Mon-Sun 10:00-22:00</string>
+    <string name="mall_4_openHours">Mon-Sun 10:00-22:00</string>
+    <string name="mall_5_openHours">Mon-Sun 10:00-22:00</string>
+    <string name="mall_6_openHours">Mon-Sun 10:00-22:00</string>
+    <string name="mall_7_openHours">Mon-Sun 10:00-22:00</string>
+    <string name="mall_8_openHours">Mon-Sun 10:00-22:00</string>
+    <string name="mall_9_openHours">Mon-Sun 10:00-22:00</string>
+
+    <string name="restaurant_1_openHours">Mon-Sun 14:30-01:00</string>
+    <string name="restaurant_2_openHours">Mon-Sat 12:00 - 23: 30, Sun 10:30-23:00</string>
+    <string name="restaurant_3_openHours">Mon-Sun 09:00-23:30</string>
+    <string name="restaurant_4_openHours">Mon-Sun 12:00-24:30</string>
+    <string name="restaurant_5_openHours">Mon-Thu 10:00-24:00, Fri 10:00-01:00, Sat 09:30-01:00, Sun 09:30-24:00</string>
+    <string name="restaurant_6_openHours">Mon-Sun 11:00-01:00</string>
+    <string name="restaurant_7_openHours">Mon-Sun 12:00-23:30</string>
+    <string name="restaurant_8_openHours">Mon-Sun 12:00-01:00</string>
+    <string name="restaurant_9_openHours">Mon 12:00-02:00, Tue-Sun 10:0-02:00</string>
+
+    <string name="hotel_1_openHours">7 days, 24 hours</string>
+    <string name="hotel_2_openHours">7 days, 24 hours</string>
+    <string name="hotel_3_openHours">7 days, 24 hours</string>
+    <string name="hotel_4_openHours">7 days, 24 hours</string>
+    <string name="hotel_5_openHours">7 days, 24 hours</string>
+    <string name="hotel_6_openHours">7 days, 24 hours</string>
+    <string name="hotel_7_openHours">7 days, 24 hours</string>
+    <string name="hotel_8_openHours">7 days, 24 hours</string>
+    <string name="hotel_9_openHours">7 days, 24 hours</string>
+
+    <string name="sight_1_telephone">(0212) 522 12 59</string>
+    <string name="sight_2_telephone">(0212) 522 17 50</string>
+    <string name="sight_3_telephone">(0212) 293 81 80</string>
+    <string name="sight_4_telephone">(0212) 236 90 00</string>
+    <string name="sight_5_telephone">(0212) 512 04 80</string>
+    <string name="sight_6_telephone">(0212) 458 44 68</string>
+    <string name="sight_7_telephone">(0212) 520 77 41</string>
+    <string name="sight_8_telephone">(0212) 519 12 48</string>
+    <string name="sight_9_telephone">(0212) 631 92 41</string>
+
+    <string name="mall_1_telephone">(0212) 345 55 55</string>
+    <string name="mall_2_telephone">(0212) 924 01 24</string>
+    <string name="mall_3_telephone">(0216) 325 03 72</string>
+    <string name="mall_4_telephone">(0216) 504 75 25</string>
+    <string name="mall_5_telephone">(0212) 801 10 00</string>
+    <string name="mall_6_telephone">(0212) 574 59 00</string>
+    <string name="mall_7_telephone">(0850) 290 8090</string>
+    <string name="mall_8_telephone">(0212) 368 69 00</string>
+    <string name="mall_9_telephone">(0216) 663 15 00</string>
+
+    <string name="restaurant_1_telephone">(0212) 244 90 90</string>
+    <string name="restaurant_2_telephone">(0216) 413 37 53</string>
+    <string name="restaurant_3_telephone">(0212) 263 29 73</string>
+    <string name="restaurant_4_telephone">(0212) 358 30 22</string>
+    <string name="restaurant_5_telephone">(0216) 504 01 14</string>
+    <string name="restaurant_6_telephone">(0212) 252 48 48</string>
+    <string name="restaurant_7_telephone">(0216) 550 04 04</string>
+    <string name="restaurant_8_telephone">(0212) 257 05 25</string>
+    <string name="restaurant_9_telephone">(0212) 257 12 55</string>
+
+    <string name="hotel_1_telephone">(0212) 381 40 00</string>
+    <string name="hotel_2_telephone">(0212) 337 49 00</string>
+    <string name="hotel_3_telephone">(0212) 924 02 00</string>
+    <string name="hotel_4_telephone">(0212) 326 11 00</string>
+    <string name="hotel_5_telephone">(0212) 334 44 44</string>
+    <string name="hotel_6_telephone">(0212) 363 33 00</string>
+    <string name="hotel_7_telephone">(0212) 334 83 00</string>
+    <string name="hotel_8_telephone">(0212) 315 60 00</string>
+    <string name="hotel_9_telephone">(0212) 319 29 29</string>
+
+    <string name="sight_1_price">20TL</string>
+    <string name="sight_2_price">40TL adult, Child under 12 yr free</string>
+    <string name="sight_3_price">25TL</string>
+    <string name="sight_4_price">60TL</string>
+    <string name="sight_5_price">40TL</string>
+    <string name="sight_6_price">Free</string>
+    <string name="sight_7_price">20TL</string>
+    <string name="sight_8_price">Free</string>
+    <string name="sight_9_price">15TL</string>
+
+    <string name="mall_1_price">Free</string>
+    <string name="mall_2_price">0-3hrs free, 3hr+ parking fee requested</string>
+    <string name="mall_3_price">Free</string>
+    <string name="mall_4_price">0-3hrs free, 3hr+ parking fee requested</string>
+    <string name="mall_5_price">Free</string>
+    <string name="mall_6_price">0-1 hrs free, 1hr+ parking fee requested</string>
+    <string name="mall_7_price">Free</string>
+    <string name="mall_8_price">0-3hrs free, 3hr+ parking fee requested</string>
+    <string name="mall_9_price">Free</string>
+
+    <string name="restaurant_1_price">125 TL/person approx</string>
+    <string name="restaurant_2_price">175 TL/person approx</string>
+    <string name="restaurant_3_price">95 TL/person approx</string>
+    <string name="restaurant_4_price">200 TL/person approx</string>
+    <string name="restaurant_5_price">90 TL/person approx</string>
+    <string name="restaurant_6_price">100 TL/person approx</string>
+    <string name="restaurant_7_price">100 TL/person approx</string>
+    <string name="restaurant_8_price">125 TL/person approx</string>
+    <string name="restaurant_9_price">120 TL/person approx</string>
+
+    <string name="hotel_1_price">2,038 TL/person approx</string>
+    <string name="hotel_2_price">309 TL/person approx</string>
+    <string name="hotel_3_price">2,184 TL/person approx</string>
+    <string name="hotel_4_price">1,193 TL/person approx</string>
+    <string name="hotel_5_price">1,188 TL/person approx</string>
+    <string name="hotel_6_price">1,285 TL/person approx</string>
+    <string name="hotel_7_price">909 TL/person approx</string>
+    <string name="hotel_8_price">1,342 TL/person approx</string>
+    <string name="hotel_9_price">488 TL/person approx</string>
+
+    <string name="sight_1_address">Alemdar Mh., Yerebatan Cd. 1/3, 34410 Fatih/Istanbul</string>
+    <string name="sight_2_address">Sultan Ahmet Mahallesi, Ayasofya Meydani, 34122 Fatih/Istanbul</string>
+    <string name="sight_3_address">Galata Kulesi (Tower) Buyuk Hendek Caddesi, Galata</string>
+    <string name="sight_4_address">Vişnezade Mahallesi, Dolmabahce Cd., 34357 Beşiktaş/Istanbul</string>
+    <string name="sight_5_address">Cankurtaran Mh., 34122 Fatih/Istanbul Topkapi Sarayi Muzesi</string>
+    <string name="sight_6_address">Sultan Ahmet Mahallesi, Atmeydani Cd. No:7, 34122 Fatih/Istanbul</string>
+    <string name="sight_7_address">Cankurtaran Mh., 34122 Fatih/Istanbul</string>
+    <string name="sight_8_address">Beyazit Mh., 34126 Fatih/Istanbul</string>
+    <string name="sight_9_address">Dervişali Mahallesi, Kariye Cami Sk. No:8, 34087 Fatih/Istanbul</string>
+
+    <string name="mall_1_address">Pinar Mahallesi, Katar Cd No:73, 34460 Sariyer/Istanbul</string>
+    <string name="mall_2_address">Zorlu Center, Levazim Mahallesi, Koru Sokak No:2, 34340 Beşiktaş/Istanbul</string>
+    <string name="mall_3_address">Acibadem Mah, Cecen Sk Akasya AVM, 34660 Uskudar/Istanbul</string>
+    <string name="mall_4_address">Barbaros Mahallesi, Kizilbegonya Sok. 10/1, 34746 Ataşehir/Istanbul</string>
+    <string name="mall_5_address">Ziya Gokalp Mahallesi, Suleyman Demirel Blv No:7, 34306 Başakşehir/Istanbul</string>
+    <string name="mall_6_address">Şenlikkoy Mahallesi, Yeşilkoy Halkali Caddesi No:93 D:Yeşilkoy Halkali Cd, 34153 Bakirkoy/Istanbul</string>
+    <string name="mall_7_address">Unalan Mahallesi, Libadiye Cd No:81, 34700 Uskudar/Istanbul</string>
+    <string name="mall_8_address">19 Mayis Mahallesi, Buyukdere Cd. No:22, 34100 Şişli/Istanbul</string>
+    <string name="mall_9_address">Barbaros Mahallesi, Halk Cd. 8-B, 34746 Ataşehir/Istanbul</string>
+
+    <string name="restaurant_1_address">Tomtom Mahallesi, Istiklal Caddesi, Hidivyal Palas, No 231, Kat 2, Beyoğlu, Istanbul</string>
+    <string name="restaurant_2_address">Korfez Cad. 57/A, Istanbul, Turkiye</string>
+    <string name="restaurant_3_address">Bebek Mahallesi, Cevdetpaşa Caddesi, No 28/A, Beşiktaş, Istanbul</string>
+    <string name="restaurant_4_address">Etiler Mahallesi, Nispetiye Caddesi, No 87, Beşiktaş, Istanbul 34337</string>
+    <string name="restaurant_5_address">Palladium Tower, Barbaros Mahallesi, Halk Caddesi, Kardelen Sokak, No 2/3, Ataşehir, Istanbul</string>
+    <string name="restaurant_6_address">The Haze Istanbul, Kemankeş Karamustafa Paşa Mahallesi, Maliye Caddesi, No 8/A, Beyoğlu, Istanbul</string>
+    <string name="restaurant_7_address">Wyndham Grand Istanbul Kalamiş Marina Hotel, Fenerbahce Mahallesi, Fener Kalamiş Caddesi, No 38, Kadikoy, Istanbul</string>
+    <string name="restaurant_8_address"> Arnavutkoy Mahallesi, Arnavutkoy Bebek Caddesi, No 4, Beşiktaş, Istanbul</string>
+    <string name="restaurant_9_address">Bebek Mahallesi, Cevdetpaşa Caddesi, No 51/B, Beşiktaş, Istanbul</string>
+
+    <string name="hotel_1_address">Cirağan Cad. No: 28, Istanbul, Istanbul, 34349 Turkiye</string>
+    <string name="hotel_2_address">Buyukdere Cad. No: 84, Istanbul, Istanbul, 34378 Turkiye</string>
+    <string name="hotel_3_address">Zorlu Center, Beşiktaş, Istanbul, Istanbul, 34340 Turkiye</string>
+    <string name="hotel_4_address">Vişnezade Mah. Acisu Sok. No. 19, Macka Beşiktaş, Istanbul, Istanbul, 34357 Turkiye</string>
+    <string name="hotel_5_address">Suzer Plaza Askerocaği Caddesi No.: 6, Elmadağ/Şişli, Istanbul, Istanbul, 34367 Turkiye</string>
+    <string name="hotel_6_address">Haydar Aliyev Cad. No.: 154, Tarabya, Sariyer, Istanbul, 34457 Turkiye</string>
+    <string name="hotel_7_address">Taksim Meydani, Istanbul, Istanbul, 34437 Turkiye</string>
+    <string name="hotel_8_address">Cumhuriyet Caddesi, Harbiye, Istanbul, Istanbul, 34367 Turkiye</string>
+    <string name="hotel_9_address">Emniyetevleri, Buyukdere Caddesi No 3, 4. Levent, Kağithane, Istanbul, 34330 Turkiye</string>
+
+    <string name="hello_blank_fragment">hello</string>
+
+</resources>
